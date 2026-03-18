@@ -1,5 +1,6 @@
 # ⚡ Smart Energy Monitor
-## img file:///C:/Users/BIKASH/Downloads/smart_energy_dashboard_with_data.html
+## img <img width="1920" height="1080" alt="Screenshot 2026-03-18 234613" src="https://github.com/user-attachments/assets/b95b275b-2eaa-4a08-9a63-737ca2089016" />
+
 --
 ## Folder Structure
 ```
